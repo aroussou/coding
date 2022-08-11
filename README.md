@@ -7,6 +7,6 @@
 ## Categories:
 - Code templates
 - Code review
-- README.md files
 - Code optimization
 - Methodology, WoW, Docs..
+- README.md files
